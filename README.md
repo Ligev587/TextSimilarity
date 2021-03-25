@@ -1,5 +1,6 @@
 # TextSimilarity
 CCF竞赛 “技术需求”与“技术成果”项目之间关联度计算模型 baseline 0.68541449
+使用word2vec和CNN
 
 ## 使用方法
 本地运行preprocess文件，生成词汇表、训练集、测试集、词向量文件   
